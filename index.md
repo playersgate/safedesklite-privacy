@@ -1,6 +1,6 @@
 # プライバシーポリシー / Privacy Policy
 
-**SafeDesk Lite**
+**SafeDesk Basic**
 
 最終更新日 / Last updated: 2026-04-08
 
@@ -10,13 +10,11 @@
 
 ### 1. 事業者情報
 - 事業者名: 株式会社プレイヤーズゲート
-- 所在地: 日本、北海道
-- 連絡先メール: safedeskai@playersgate.jp
-- 電話: 011-699-6058
+- Webサイト: https://playersgate.jp/safedeskai/
 
 ### 2. 取り扱う情報
 
-本アプリ「SafeDesk Lite」（以下「本アプリ」）は、以下の情報を取り扱います。
+本アプリ「SafeDesk Basic」（以下「本アプリ」）は、以下の情報を取り扱います。
 
 #### 2.1 マイク音声データ（端末内のみ）
 - **取得方法**: 端末のマイクから継続的にバッファリングします。
@@ -66,13 +64,11 @@
 
 ### 1. Operator Information
 - Operator: Players Gate Inc.
-- Location: Hokkaido, Japan
-- Contact email: safedeskai@playersgate.jp
-- Phone: +81-11-699-6058
+- Website: https://playersgate.jp/safedeskai/
 
 ### 2. Information We Handle
 
-This application ("SafeDesk Lite", hereinafter "the App") handles the following information.
+This application ("SafeDesk Basic", hereinafter "the App") handles the following information.
 
 #### 2.1 Microphone audio data (on-device only)
 - **Source**: Continuously buffered from the device microphone.
